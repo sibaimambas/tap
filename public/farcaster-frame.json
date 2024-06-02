@@ -1,0 +1,10 @@
+{
+    "title": "My Clicker Game",
+    "description": "Join the game and start earning points! Tap the button to earn points and refer friends to earn more.",
+    "image": "https://your-image-url",
+    "url": "https://your-deployed-url",
+    "embed": {
+        "type": "iframe",
+        "html": "<iframe src='https://your-deployed-url' width='600' height='400' style='border:none;'></iframe>"
+    }
+}
